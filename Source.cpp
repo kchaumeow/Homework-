@@ -1,7 +1,7 @@
 
 
 
-// ДЗ 1 номер 2
+// Г„Г‡ 1 Г­Г®Г¬ГҐГ° 2
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
@@ -33,7 +33,7 @@ using namespace std;
 //}
 
 
-//дз 1 номер 3
+//Г¤Г§ 1 Г­Г®Г¬ГҐГ° 3
 //int main() {
 //	int b = 0;
 //	int c = 0;
@@ -52,7 +52,7 @@ using namespace std;
 //	return 0;
 //}
 
-//дз 1 номер 4
+//Г¤Г§ 1 Г­Г®Г¬ГҐГ° 4
 //int main() {
 //	int a, b, c, d;
 //	cout << "Numbers:" << endl;
@@ -79,47 +79,47 @@ using namespace std;
 //	
 //}
 
-// дз 1 номер 5
+// Г¤Г§ 1 Г­Г®Г¬ГҐГ° 5
 //int main() {
 //	setlocale(0, "");
 //	bool curt, lamp, day;
-//	cout << "Лампа горит? (1,0)" << endl;
+//	cout << "Г‹Г Г¬ГЇГ  ГЈГ®Г°ГЁГІ? (1,0)" << endl;
 //	cin >> lamp;
-//	cout << "Шторы открыты? (1,0)" << endl;
+//	cout << "ГГІГ®Г°Г» Г®ГІГЄГ°Г»ГІГ»? (1,0)" << endl;
 //	cin >> curt;
-//	cout << "День или Ночь? (1,0)" << endl;
+//	cout << "Г„ГҐГ­Гј ГЁГ«ГЁ ГЌГ®Г·Гј? (1,0)" << endl;
 //	cin >> day;
 //	if (lamp == 1){
-//		cout << "В комнате светло" << endl;
+//		cout << "Г‚ ГЄГ®Г¬Г­Г ГІГҐ Г±ГўГҐГІГ«Г®" << endl;
 //		return 0;
 //	}
 //	if ((curt == 1) && (day == 1)){
-//		cout << "В комнате светло" << endl;
+//		cout << "Г‚ ГЄГ®Г¬Г­Г ГІГҐ Г±ГўГҐГІГ«Г®" << endl;
 //		return 0;
-//	}else{ cout << "В комнате темно" << endl; }
+//	}else{ cout << "Г‚ ГЄГ®Г¬Г­Г ГІГҐ ГІГҐГ¬Г­Г®" << endl; }
 //		
 //	return 0;
 //}
 
 
-//дз 2 номер 1
-//Конус
+//Г¤Г§ 2 Г­Г®Г¬ГҐГ° 1
+//ГЉГ®Г­ГіГ±
 //int main() {
 //	setlocale(0, "");
 //	int R, r,h,l;
-//	cout << "Введите бол. радиус:" << endl;
+//	cout << "Г‚ГўГҐГ¤ГЁГІГҐ ГЎГ®Г«. Г°Г Г¤ГЁГіГ±:" << endl;
 //	cin >> R;
-//	cout << "Введите мал. радиус:" << endl;
+//	cout << "Г‚ГўГҐГ¤ГЁГІГҐ Г¬Г Г«. Г°Г Г¤ГЁГіГ±:" << endl;
 //	cin >> r;
-//	cout << "Введите высоту:" << endl;
+//	cout << "Г‚ГўГҐГ¤ГЁГІГҐ ГўГ»Г±Г®ГІГі:" << endl;
 //	cin >> h;
-//	cout << "Введите образующую:" << endl;
+//	cout << "Г‚ГўГҐГ¤ГЁГІГҐ Г®ГЎГ°Г Г§ГіГѕГ№ГіГѕ:" << endl;
 //	cin >> l;
 //	cout << "V = " << (1 / 3 * M_PI * h * (R * R + R * r + r * r)) << endl;
 //	cout << "S = " << (M_PI * (R * R + (R + r) * l + r * r)) << endl;
 //}
 
-//дз 2 номер 2
+//Г¤Г§ 2 Г­Г®Г¬ГҐГ° 2
 //int main() {
 //	double a = 10, x = 0.2;
 //	if ((abs(x) < 1) && (abs(x) != 0)) {
@@ -133,7 +133,7 @@ using namespace std;
 //	return 0;
 //}
 
-//дз 2 номер 3
+//Г¤Г§ 2 Г­Г®Г¬ГҐГ° 3
 //void f(double b, double y, double x) {
 //	if ((b - y > 0) && (b - x >= 0)) {
 //		cout << log(b - y) * sqrt(b - x) << endl;
@@ -150,18 +150,18 @@ using namespace std;
 //	return 0;
 //}
 
-//дз 2 номер 4
+//Г¤Г§ 2 Г­Г®Г¬ГҐГ° 4
 //void main() {
 //	setlocale(0, "");
 //	int N,i;
-//	cout << "Введите N:" << endl;
+//	cout << "Г‚ГўГҐГ¤ГЁГІГҐ N:" << endl;
 //	cin >> N;
 //	for (i = N; i <= N+9; i++) {
 //		cout << i << endl;
 //	}
 //}
 
-//дз 2 номер 5
+//Г¤Г§ 2 Г­Г®Г¬ГҐГ° 5
 //void main() {
 //	setlocale(0, "");
 //	int x = -4;
@@ -173,12 +173,12 @@ using namespace std;
 //	}
 //}
 
-//дз 3 номер 1
-// для 34 2 5 ответ примерно 0.601116 
+//Г¤Г§ 3 Г­Г®Г¬ГҐГ° 1
+// Г¤Г«Гї 34 2 5 Г®ГІГўГҐГІ ГЇГ°ГЁГ¬ГҐГ°Г­Г® 0.601116 
 //void main() {
 //	setlocale(0, "");
 //	float s, p, n, r;
-//	cout << "введите s, p, n:" << endl;
+//	cout << "ГўГўГҐГ¤ГЁГІГҐ s, p, n:" << endl;
 //	cin >> s >> p >> n;
 //	r = p / 100;
 //	if (12 * (pow(1 + r, n) - 1) != 0){
@@ -189,4 +189,155 @@ using namespace std;
 //	
 //}
 
-//дз 3 номер 2
+//Г¤Г§ 3 Г­Г®Г¬ГҐГ° 2
+
+#include <iostream>
+#include <string>
+#include <cmath>
+using namespace std;
+
+
+HW 4 в„– 1
+#include <fstream>
+int main() {
+	string a;
+	ofstream f("gg.txt");
+	for (int i = 0; i < 10; i++) {
+		cin >> a;
+		f << a << " ";
+
+	}
+	f.close();
+	ifstream g("gg.txt");
+	char t;
+	double s = 0;
+	string m = "";
+	string p = "";
+	bool flag = 0;
+	if (g.is_open()) {
+		while (g.get(t)) {
+			if (isdigit(t) or (t == '-') or (t == '+') or (t == '.')) {
+				p += t;
+			}
+			else {
+				m += p;
+				m += " ";
+				if (p.find('-') == 0){
+					flag = 1;
+					p.erase(p.find('-'), 1);
+					
+				}
+				while (p.find('+') == 0) {
+					p.erase(p.find( '+'), 1);
+				}
+				if (flag) {
+					s -= stod(p);
+					flag = 0;
+					p = "";
+				}
+				else {
+					s += stod(p);
+					flag = 0;
+					p = "";
+				}
+			}
+			}
+		}
+	cout << m << endl;
+	cout << s;
+	return 0;
+}
+
+
+
+ HW 4 в„– 2
+int f(int a) {
+	if (a < 0) {
+		return -1;
+	}
+	if (a == 0) {
+		return 0;
+	}
+	return 1;
+
+}
+int main() {
+	int a;
+	setlocale(0, "");
+	cout << "Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ: " << endl;
+	cin >> a;
+	cout << f(a);
+}
+
+
+ HW 4 в„– 3
+ 
+int kr(double a) {
+	double s;
+	s = pow(a, 2) * 3.14;
+	return s;
+}
+int pr(double a, double b) {
+	double s;
+	s = a * b;
+	return s;
+}
+int tri(double a, double b, double c) {
+	double s, p;
+	p = (a + b + c) / 2;
+	s = sqrt(p * (p - a) * (p - b) * (p - c));
+	return s;
+}
+
+int main() {
+	setlocale(0, "");
+	int figure;
+	cout << "РљР°РєР°СЏ С„РёРіСѓСЂР° РґР°РЅР°? \n\n[1]С‚СЂРµСѓРіРѕР»СЊРЅРёРє\n\n[2]РєСЂСѓРі\n\n[3]РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє\n" << endl;
+	cin >> figure;
+	switch (figure) {
+	case 1:
+		double a, b, c;
+		cout << "Р’РІРµРґРёС‚Рµ СЃС‚РѕСЂРѕРЅС‹ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°: " << endl;
+		cin >> a >> b >> c;
+		cout << "РџР»РѕС‰Р°РґСЊ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР° = " << tri(a, b, c) << endl;
+		break;
+	case 2:
+		double r;
+		cout << "Р’РІРµРґРёС‚Рµ СЂР°РґРёСѓСЃ РєСЂСѓРіР°: " << endl;
+		cin >> r;
+		cout << "РџР»РѕС‰Р°РґСЊ РєСЂСѓРіР° = " << kr(r) << endl;
+		break;
+	case 3:
+		double m, n;
+		cout << "Р’РІРµРґРёС‚Рµ СЃС‚РѕСЂРѕРЅС‹ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРєР°: " << endl;
+		cin >> m >> n;
+		cout << "РџР»РѕС‰Р°РґСЊ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРєР° = " << pr(m, n) << endl;
+		break;
+	}
+	return 0;
+}
+
+3.1
+
+int main() {
+	setlocale(0, "");
+	double m, s, r, p, n;
+	cin >> s >> p >> n;
+	r = p / 100;
+	if ((n <= 0) or (s <= 0) or ((1 + r) < 0)) {
+		cout << "РќРµРєРѕСЂСЂРµРєС‚РЅС‹Рµ Р·РЅР°С‡РµРЅРёСЏ!";
+		return 2;
+	}
+	if (r == 0) {
+		m = s / (12 * n);
+		cout << m;
+		return 0;
+	}
+	if ((pow((1 + r), n)) != 0){
+		m = (s * r * pow((1 + r), n)) / (12 * (pow(1 + r, n) - 1));
+		cout << m;
+		return -1;
+	
+	}
+	return 3;
+}
